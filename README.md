@@ -5,13 +5,13 @@ the main function of this component is to resize an image
 
 ## Usage 
 Load image
-$this->loadComponent('Image');
+  $this->loadComponent('Image');
 
 Open an Image
-$this->Image->OpenImage($filePath);
+  $this->Image->OpenImage($filePath);
 
 Resize Image
-$this->Image->resizeImage(50,50);
+  $this->Image->resizeImage(50,50);
 
 Save Image
-$this->Image->saveImage(WWW_ROOT . 'test.png');
+  $this->Image->saveImage(WWW_ROOT . 'test.png');
