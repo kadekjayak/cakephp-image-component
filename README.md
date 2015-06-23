@@ -1,6 +1,6 @@
 # cakephp-image-component 
 this is an Image Component for CakePHP 3
-i just make a component for CakePHP original script is on http://code.tutsplus.com/tutorials/image-resizing-made-easy-with-php--net-10362
+i just make a component for CakePHP, original script is on http://code.tutsplus.com/tutorials/image-resizing-made-easy-with-php--net-10362
 the main function of this component is to resize an image
 
 ## Usage 
